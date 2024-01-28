@@ -1,4 +1,5 @@
 Bentley-Ottman ; sweep-line algorithm for segment intersection
+Run `main.py` to start the program.
 Install libraries: `pip install matplotlib`
 
 ## Instruction:
